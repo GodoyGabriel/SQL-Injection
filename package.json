@@ -1,0 +1,28 @@
+{
+  "name": "sql-injection",
+  "version": "1.0.0",
+  "description": "Detects sql injection attacks and rejects requests with 403 response if sql is found",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GodoyGabriel/SQL-Injection.git"
+  },
+  "author": "Godoy Gabriel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GodoyGabriel/SQL-Injection/issues"
+  },
+  "keywords": [
+    "sql",
+    "injection",
+    "sqlinjection",
+    "security",
+    "express",
+    "expressjs",
+    "module"
+  ],
+  "homepage": "https://github.com/GodoyGabriel/SQL-Injection#readme"
+}
